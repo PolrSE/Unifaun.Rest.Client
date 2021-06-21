@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unifaun.Rest.Client", "Unifaun.Rest.Client\Unifaun.Rest.Client.csproj", "{93D9C7B6-0BCD-4054-A2AB-8C8F77B8C6B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unifaun.Rest.Client.Tests", "Unifaun.Rest.Client.Tests\Unifaun.Rest.Client.Tests.csproj", "{62953A29-CE21-4987-BD70-96EAF42C9185}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93D9C7B6-0BCD-4054-A2AB-8C8F77B8C6B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D9C7B6-0BCD-4054-A2AB-8C8F77B8C6B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D9C7B6-0BCD-4054-A2AB-8C8F77B8C6B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D9C7B6-0BCD-4054-A2AB-8C8F77B8C6B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62953A29-CE21-4987-BD70-96EAF42C9185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62953A29-CE21-4987-BD70-96EAF42C9185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62953A29-CE21-4987-BD70-96EAF42C9185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62953A29-CE21-4987-BD70-96EAF42C9185}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C2BE12C-36A3-4719-86FE-A12B3370BE02}
+	EndGlobalSection
+EndGlobal

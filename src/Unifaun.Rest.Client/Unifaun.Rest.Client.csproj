@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Company>Polr AB</Company>
+    <Product>Unifaun Rest Client</Product>
+    <Description>.NET Rest Client for the Unifaun REST API</Description>
+    <Authors>Polr AB</Authors>
+    <Version>0.0.1</Version>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/PolrSE/Unifaun.Rest.Client</RepositoryUrl>
+    <PackageTags>Unifaun, REST, C#, .NET</PackageTags>
+    <OutputType>Library</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Text.Json" Version="4.7.2" />
+  </ItemGroup>
+
+</Project>
